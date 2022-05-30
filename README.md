@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NMKrastev
+- 👋 Hi, I’m Nikola Krastev.
 - 👀 I’m interested in computer sience and programing.
 - 🌱 I’m currently learning Java at SoftUni.
 - 💞️ I’m looking to collaborate on ...
