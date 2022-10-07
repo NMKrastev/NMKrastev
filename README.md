@@ -22,7 +22,11 @@
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NMKrastev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMKrastev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nmkrastev&show_icons=true&theme=highcontrast&title_color=ff0000&icon_color=ff0000" />
+  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmkrastev&layout=compact&theme=highcontrast&title_color=ff0000" />
+</p>
+<p>
+  <img height="165em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=SoftUni-Java&theme=highcontrast&title_color=ff0000">
+  <img height="165em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=Tutorials&theme=highcontrast&title_color=ff0000">
 </p>
 
