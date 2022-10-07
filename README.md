@@ -27,6 +27,7 @@
 </p>
 <p>
   <a href="https://github.com/NMKrastev/SoftUni-Java" rel="NMKrastev's repo SoftUni-Java"><img height="125.5em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=SoftUni-Java&theme=highcontrast&title_color=ff0000"></a>
+</br>
   <a href="https://github.com/NMKrastev/Tutorials" rel="NMKrastev's repo Tutorials"><img height="125.5em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=Tutorials&theme=highcontrast&title_color=ff0000"></a>
 </p>
 
