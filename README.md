@@ -26,7 +26,7 @@
   <a href="https://github.com/NMKrastev" rel="NMKrastev's profile"><img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmkrastev&layout=compact&theme=highcontrast&title_color=ff0000" /></a>
 </p>
 <p>
-  <a href="https://github.com/NMKrastev/SoftUni-Java" rel="NMKrastev's repo SoftUni-Java"><img height="105em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=SoftUni-Java&theme=highcontrast&title_color=ff0000"></a>
-  <a href="https://github.com/NMKrastev/Tutorials" rel="NMKrastev's repo Tutorials"><img height="105em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=Tutorials&theme=highcontrast&title_color=ff0000"></a>
+  <a href="https://github.com/NMKrastev/SoftUni-Java" rel="NMKrastev's repo SoftUni-Java"><img height="115em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=SoftUni-Java&theme=highcontrast&title_color=ff0000"></a>
+  <a href="https://github.com/NMKrastev/Tutorials" rel="NMKrastev's repo Tutorials"><img height="115em" alt="My Github SoftUni Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=Tutorials&theme=highcontrast&title_color=ff0000"></a>
 </p>
 
