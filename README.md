@@ -25,8 +25,8 @@ February-April 2022 [:file_folder: Programming Basics with Java](https://github.
 September-December 2022 [:file_folder: Programming Fundamentals with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Fundamentals) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/148487/e688606d)*
 
 ### Advanced Module:
-January-February [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*  
-February-April [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Ongoing*** |
+January-February 2023 [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*  
+February-April 2023 [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Ongoing*** |
 
 ### DB Module:
 MySQL | *Planned Course*</br>
