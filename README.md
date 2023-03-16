@@ -18,25 +18,25 @@
 </p>
 
 ## Java Path
-#### Basics Module:
+### Basics Module:
 February-April 2022 [:file_folder: Programming Basics with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Basics) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/133731/533130e3)*
 
-#### Fundamentals Module:
+### Fundamentals Module:
 September-December 2022 [:file_folder: Programming Fundamentals with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Fundamentals) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/148487/e688606d)*
 
-#### Advanced Module:
+### Advanced Module:
 January-February [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*  
 February-April [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Ongoing*** |
 
-#### DB Module:
+### DB Module:
 MySQL | *Planned Course*</br>
 Spring Data | *Planned Course*
 
-#### Web Module:
+### Web Module:
 Spring Fundamentals | *Planned Course*</br>
 Spring Advanced | *Planned Course*
 
-#### JS Advanced:
+### JS Advanced:
 JS Advanced Module | *Planned Course*</br>
 JS Applications | *Planned Course*</br></br>
 
