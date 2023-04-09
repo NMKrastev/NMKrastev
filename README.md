@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Nikola Krastev</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
 
 - 👀 I’m interested in computer sience and programing.
 
 - 🌱 I’m currently learning Java at SoftUni.
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with anything that's connected to software web development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/NMKrastev](https://github.com/NMKrastev)
 
@@ -17,16 +16,16 @@
 <a href="https://stackoverflow.com/users/20050719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20050719" height="30" width="40" /></a>
 </p>
 
-## Java Path
-### Basics Module:
+## [Java Path](https://softuni.bg/curriculum)
+### [Basics Module](https://softuni.bg/trainings/3625/programming-basics-with-java-february-2022):
 February-April 2022 [:file_folder: Programming Basics with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Basics) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/133731/533130e3)*
 
-### Fundamentals Module:
+### [Fundamentals Module](https://softuni.bg/trainings/3837/programming-fundamentals-with-java-september-2022):
 September-December 2022 [:file_folder: Programming Fundamentals with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Fundamentals) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/148487/e688606d)*
 
-### Advanced Module:
+### Advanced Module ([Java Advanced](https://softuni.bg/trainings/3959/java-advanced-january-2023) | [Java OOP](https://softuni.bg/trainings/3960/java-oop-february-2023)):
 January-February 2023 [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*  
-February-April 2023 [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Ongoing*** |
+February-April 2023 [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Completed*** | ***Certificate - pending***
 
 ### DB Module:
 MySQL | *Planned Course*</br>
