@@ -27,8 +27,8 @@ September-December 2022 [:file_folder: Programming Fundamentals with Java](https
 January-February 2023 [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*  
 February-April 2023 [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/168913/8c194a77)*
 
-### DB Module:
-MySQL | *Planned Course*</br>
+### DB Module ([MySQL](https://softuni.bg/trainings/4116/mysql-may-2023) | [Spring Data](https://softuni.bg/trainings/4115/spring-data-june-2023)):
+May-June 2023 [:file_folder: MySQL](https://github.com/NMKrastev/SoftUni-Java/tree/main/MySQL) | ***Ongoing***</br>
 Spring Data | *Planned Course*
 
 ### Web Module:
