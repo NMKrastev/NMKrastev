@@ -24,12 +24,12 @@ February-April 2022 [:file_folder: Programming Basics with Java](https://github.
 September-December 2022 [:file_folder: Programming Fundamentals with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Fundamentals) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/148487/e688606d)*
 
 ### Advanced Module ([Java Advanced](https://softuni.bg/trainings/3959/java-advanced-january-2023) | [Java OOP](https://softuni.bg/trainings/3960/java-oop-february-2023)):
-January-February 2023 [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*  
+January-February 2023 [:file_folder: Java Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/Advanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/161791/adf793d6)*</br>
 February-April 2023 [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUni-Java/tree/main/OOP) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/168913/8c194a77)*
 
 ### DB Module ([MySQL](https://softuni.bg/trainings/4116/mysql-may-2023) | [Spring Data](https://softuni.bg/trainings/4115/spring-data-june-2023)):
-May-June 2023 [:file_folder: MySQL](https://github.com/NMKrastev/SoftUni-Java/tree/main/MySQL) | ***Ongoing***</br>
-Spring Data | *Planned Course*
+May-June 2023 [:file_folder: MySQL](https://github.com/NMKrastev/SoftUni-Java/tree/main/MySQL) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/172125/28ecf997)*</br>
+June-July 2023 [:file_folder: SringData]() | ***Ongoing***
 
 ### Web Module:
 Spring Fundamentals | *Planned Course*</br>
