@@ -29,7 +29,7 @@ February-April 2023 [:file_folder: Java OOP](https://github.com/NMKrastev/SoftUn
 
 ### DB Module ([MySQL](https://softuni.bg/trainings/4116/mysql-may-2023) | [Spring Data](https://softuni.bg/trainings/4115/spring-data-june-2023)):
 May-June 2023 [:file_folder: MySQL](https://github.com/NMKrastev/SoftUni-Java/tree/main/MySQL) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/172125/28ecf997)*</br>
-June-July 2023 [:file_folder: SringData]() | ***Ongoing***
+June-July 2023 [:file_folder: SringData](https://github.com/NMKrastev/SoftUni-Java/tree/main/SpringData) | ***Ongoing***
 
 ### Web Module:
 Spring Fundamentals | *Planned Course*</br>
