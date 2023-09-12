@@ -36,7 +36,7 @@ September-October 2023 [:file_folder: Spring Fundamentals]() | **Ongoing**</br>
 October-December 2023 [:file_folder: Spring Advanced]() | *Planned Course*
 
 ### JS Front-End ([HTML & CSS](https://softuni.bg/trainings/4239/html-and-css-september-2023) | [JS Front-End](https://softuni.bg/trainings/4240/js-front-end-october-2023))
-September-October 2023 [:file_folder: HTML & CSS]() | **Ongoing**</br>
+September-October 2023 [:file_folder: HTML & CSS](https://github.com/NMKrastev/SoftUni-Java/tree/main/HTML%20%26%20CSS) | **Ongoing**</br>
 October-December 2023 [:file_folder: JS FRONT-END]() | *Planned Course*</br></br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,4 +54,3 @@ October-December 2023 [:file_folder: JS FRONT-END]() | *Planned Course*</br></br
 </br>
   <a href="https://github.com/NMKrastev/Tutorials" rel="NMKrastev's repo Tutorials"><img height="125.5em" alt="My Github Tutorials Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=nmkrastev&repo=Tutorials&theme=highcontrast&title_color=ff0000"></a>
 </p>
-
