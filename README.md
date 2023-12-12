@@ -35,7 +35,7 @@ June-July 2023 [:file_folder: SringData](https://github.com/NMKrastev/SoftUni-Ja
 
 ### Web Module ([Spring Fundamental](https://softuni.bg/trainings/4235/spring-fundamentals-september-2023) | [Spring Advanced](https://softuni.bg/trainings/4236/spring-advanced-october-2023))
 September-October 2023 [:file_folder: Spring Fundamentals](https://github.com/NMKrastev/SoftUni-Java/tree/main/SpringFundamentals) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/191600/038c243a)*</br>
-October-December 2023 [:file_folder: Spring Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/SpringAdvanced) | **Ongoing**
+October-December 2023 [:file_folder: Spring Advanced](https://github.com/NMKrastev/SoftUni-Java/tree/main/SpringAdvanced) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/197713/e833d7df)*</br>
 
 ### JS Front-End ([HTML & CSS](https://softuni.bg/trainings/4239/html-and-css-september-2023) | [JS Front-End](https://softuni.bg/trainings/4240/js-front-end-october-2023))
 September-October 2023 [:file_folder: HTML & CSS](https://github.com/NMKrastev/SoftUni-Java/tree/main/HTML%20%26%20CSS) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/190688/16ec1f29)*</br>
