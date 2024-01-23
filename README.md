@@ -42,7 +42,7 @@ September-October 2023 [:file_folder: HTML & CSS](https://github.com/NMKrastev/S
 October-December 2023 [:file_folder: JS FRONT-END](https://github.com/NMKrastev/SoftUni-Java/tree/main/JS%20Front-End) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/199102/30799ef1)*</br>
 
 ### DevOps for Developers ([Containers and Cloud](https://softuni.bg/trainings/4359/containers-and-cloud-january-2024) | [Software Engineering and DevOps](https://softuni.bg/trainings/4360/software-engineering-and-devops-february-2024))
-January-February 2024 | **Planned**</br>
+January-February 2024 | **Ongoing**</br>
 February-April 2024 | **Planned**</br></br>
 
 <h3 align="left">Languages and Tools:</h3>
